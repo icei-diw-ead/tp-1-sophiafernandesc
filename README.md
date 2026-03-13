@@ -3,13 +3,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Sophia da Costa Fernandes
+Matricula: 844086
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![Inspeção de rede no site Status Invest](./images/statusInvest.jpg)
 
 
 ## Orientações sobre Linguagem MarkDown
