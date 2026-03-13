@@ -8,7 +8,7 @@ Matricula: 844086
 
 ## Tela de inspeção com navegador
 
-![Inspeção de rede no site Status Invest](./images/statusInvest.jpg)
+![Inspeção de rede no site Status Invest](./images/statusInvest.png)
 
 
 ## Orientações sobre Linguagem MarkDown
